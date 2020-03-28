@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+  }
+
+  #Heading {
+    color: seagreen;
+  }
+  
+  .App-header {
+    font-family: inherit;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(150px + 1vmin);
+    
+  }
+
+  .App-header p {
+    color: black;
+  }
+  .Button {
+    font-size: calc(30px + 3vmin);
+    font-family: cursive;
+    border-radius: 6px;
+  }
+  
+  .App-link {
+    color: white;
+    font-size: calc(10px + 2vmin);
+  }
+  

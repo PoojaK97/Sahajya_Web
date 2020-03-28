@@ -1,0 +1,21 @@
+.form {
+    text-align: center;
+    margin-block-start: 8em;
+    margin-inline-start: 30em;
+    margin-inline-end: 30em;
+    margin-block-end: 4em;
+}
+
+input {
+    margin-bottom: 1em;
+    align-content: center;
+    width: 92%;
+    height: 200%;
+}
+
+.well {
+    margin-block-start: 10ch;
+    margin-inline-start: 8em;
+    margin-inline-end: 8em;
+    margin-block-end: 8em;
+}
